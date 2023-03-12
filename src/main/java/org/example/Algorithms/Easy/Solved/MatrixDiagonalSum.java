@@ -1,4 +1,4 @@
-package org.example.Algorithms.Easy.Solved;
+package main.java.org.example.Algorithms.Easy.Solved;
 
 public class MatrixDiagonalSum {
     public int diagonalSum(int[][] mat) {

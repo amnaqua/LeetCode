@@ -1,4 +1,4 @@
-package org.example.Algorithms.Easy.Attempted;
+package main.java.org.example.Algorithms.Easy.Attempted;
 
 import java.util.HashSet;
 import java.util.Set;

@@ -1,4 +1,4 @@
-package org.example.Algorithms.Easy.Solved;
+package main.java.org.example.Algorithms.Easy.Solved;
 
 public class ContainsDuplicate2 {
     public boolean containsNearbyDuplicate(int[] nums, int k) {
